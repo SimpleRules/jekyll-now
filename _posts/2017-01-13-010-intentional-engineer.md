@@ -18,3 +18,17 @@ The Intentional Engineer is a builder. They build systems and structures in thei
 
 The first human to think for themselves, "Hey! Maybe I can keep all these chickens and cows so I can have a consistent food source instead of worrying about my food everyday " is an Intentional Engineer.
 
+So what does being an Intentional Engineer do for you? When you become one, you get great results in your life.
+
+## How to become an Intentional Engineer?
+
+Becoming an Intentional Engineer is not a once and done thing.
+
+The moment you abandon the mentality of an Intentional Engineer, you stop being one.
+
+If you feel you have clumsily stumbled through life without ever being conscious and deliberate, you can become one simply by choosing to be so.
+
+If you have any kind of results you are proud of in your life, you already know how to be one.
+
+You know how to plan and make changes to your plans. You do research and also apply your imagination to add your own spin to it. You execute systematically and faithfully. You take feedback and adjust your plans.
+
