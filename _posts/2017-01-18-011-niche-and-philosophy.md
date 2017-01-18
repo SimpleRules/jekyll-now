@@ -11,3 +11,5 @@ I cannot find the exact quote from Paul Graham though I remember it was him. He 
 MOst if not all blog advice is to go after niche topics.
 
 which is why i am now going to remodel this blog to go after revenue as a software provider
+
+this is in contrast with [redgreencode](https://www.redgreencode.com/)
