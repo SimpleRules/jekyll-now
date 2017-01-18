@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Now
+title: What I'm Doing Now
 permalink: /now/
 ---
 
-## What I'm Doing Now
+## Career
 
 I’m currently working on three different b2b projects/products, at various stages of development and implementation:
 
@@ -13,6 +13,8 @@ I’m currently working on three different b2b projects/products, at various sta
 3. A production-warehousing-sales platform for manufacturers in kitchenware and have factories in China.
 
 I am crazy about building business products that are IT-based and generate recurring revenue. (Not a fan of the term "passive income").
+
+## Other interests
 
 I'm currently writing 100 posts on this blog to hit the "organic spurt" in competency. 
 
@@ -29,9 +31,11 @@ In my free time, I currently pursue:
 - Skiing
 - Snow-boarding
 - Writing (via this blog)
-- Blading
+- Roller-blading
 
-### Want to know more about now page?
+## What the heck is a now page?
+
+Want to know what a now page is?
 
 Check out this [page](http://nownownow.com/about) by Derek Sivers.
 
