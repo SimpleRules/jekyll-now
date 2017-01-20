@@ -1,14 +1,18 @@
 ---
 layout: post
-title: Intentional Engineer
+title: Intentional Architect
 ---
 
-## Who is the Intentional Engineer?
-The Intentional Engineer is not a who. It's a what. The Intentional Engineer is a mindset. A mindset about being **conscious** and **deliberate**.
+## Who is the Intentional Architect?
+The Intentional Engineer is not a who. It's a what. The Intentional Engineer is a mindset. A mindset about being **aware**, **deliberate**, and **completely devoted to the art of building**.
 
 Conscious of the mental maps they are operating in. Conscious of the choices made and their consequences. Conscious of resources they have and conscious of the desires they have always wanted.
 
 Deliberate in being the cause of the matters they care about. Deliberate in owning the results of everything in their life even if the author is someone else. Deliberate not just about what to do, but also what **not** to do.
+
+Intentional = Total awareness + Deliberate authorship.
+
+Architect = Deliberate design + Total devotion to the Art
 
 In other words, the Intentional Engineer is not someone and yet it can be anyone.
 
