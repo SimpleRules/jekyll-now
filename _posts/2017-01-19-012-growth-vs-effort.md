@@ -1,0 +1,38 @@
+
+---
+layout: post
+title: Intentional Engineer
+---
+
+Growth usually involves some *hard work*.
+
+
+If it's easy *all the time*, you are not growing. Not growing is boring.
+
+Does it mean to grow, you need to work hard *all the time*?
+
+I made that mistake before and still do from time to time. Subconsciously, if things start to get easy, I self-sabotage by making subtle decisions to make things tough again. 
+
+This is the martyr mentality. 
+
+*See how hard I tried? Isn't my victory glorious precisely because I worked so hard? Even though I failed, I worked so hard in the process the outcome no longer matters?*
+
+All this is for protecting the ego.
+
+Don't get me wrong. I am all for working hard. There comes a point of diminishing returns. I have sacrificed many hours in pursuit of my projects.
+
+But I also know I have used long hours at work to avoid the *hard work* of thinking what really needs to be done and what needs to be **not** done.
+
+
+
+Setting aside time to think how to work smarter is the kind of *hard work* workaholics and martyrs avoid.
+
+Here's a simple rule to remember when you are in the midst of the hard work. 
+
+**If it's too hard, you're doing it wrong**
+
+Another good simple rule is to set aside time on a daily, weekly, monthly, and quarterly TK reflect.
+
+Final simple rule is to ask
+
+**is this activity or is this productivity?**
