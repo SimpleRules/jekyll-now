@@ -1,3 +1,9 @@
+---
+layout: post
+title: Spark and Stamina
+---
+
+
 Trying to do translations in django admin
 
 Inspired the idea of spark vs stamina

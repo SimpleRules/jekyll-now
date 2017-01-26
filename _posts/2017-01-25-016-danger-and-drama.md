@@ -1,3 +1,10 @@
+---
+layout: post
+title: Danger and Drama 
+---
+
+
+
 danger * drama = meaning
 
 i know that doesnt make sense
