@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-without-drip
 title: About
 permalink: /about/
 ---
