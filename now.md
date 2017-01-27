@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-without-drip
 title: What I'm Doing Now
 permalink: /now/
 ---
