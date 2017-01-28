@@ -78,11 +78,11 @@ When people tell you they have "no time" for something, they usually mean:
 
 I am going to use the following symbols:
 
-`*` represents observations
-`#` represents strategies or tactics
-`<>` represents the results I got
+&#10022; represents observations <br>
+&#9998; represents strategies or tactics <br>
+&#10024; represents the results I got <br>
 
-`*`2014 was my highest revenue in over 20 years of business, BUT I did not even hit 70% of the goals I set for that year.
+&#10022;2014 was my highest revenue in over 20 years of business, BUT I did not even hit 70% of the goals I set for that year.
 
 I panicked because I couldnt figure out why my revenue was so high that year. When something is not well understood, it is not reproducible
 
@@ -100,9 +100,9 @@ I panicked because I couldnt figure out why my revenue was so high that year. Wh
 
 I then spent the next 3 days measuring my typical workday in **15 minute chunks**. I spent a high % in admin tasks.
 
-`*` In fact, I needed 500 hours more to do everything required. That is 500 hours of my time, I do not have.
+&#10022; In fact, I needed 500 hours more to do everything required. That is 500 hours of my time, I do not have.
 
-`<>` Out of this, I develop the following solutions :
+&#10024; Out of this, I develop the following solutions :
 
 - develop DMs in my thinking
 - form teams
@@ -134,7 +134,7 @@ So here's the solution:
 
 This solution therefore requires you to have **very precise strategies and calculations**.
 
-`<>` Results:
+&#10024; Results:
 
 1. Hire more people in the past 3 years than I did in the previous 20+ years before
 2. Started company retreat first time ever in 2014
@@ -142,16 +142,16 @@ This solution therefore requires you to have **very precise strategies and calcu
 
 ## 2015
 
-`*` Turnover went down
+&#10022; Turnover went down
 
-`#` I restructured my online team. I spent 4 months just to scope out the tasks.
+&#9998; I restructured my online team. I spent 4 months just to scope out the tasks.
 
-`<>`
+&#10024;
 By sept 2015, I hit my highest monthly revenue ever in 27 years history (100,000)
 
 Not every idea will work, but you need to test to know what works.
 
-`#` One useful strategy I did was to develop resources for 1 company and then **reuse** for other companies.
+&#9998; One useful strategy I did was to develop resources for 1 company and then **reuse** for other companies.
 
 E.g. the SEO team I developed for the naturopathy company I subsequently employ them for my events company as well.
 
@@ -190,7 +190,7 @@ These are my 5 biggest lessons in business:
 4. don't worry about "how" 
 5. have a bigger vision for yourself ie it's not just about you
 
-`#` Usually I have an issue with number 4 'cause it's a default pattern of mine to worry about the details and the "how"
+&#9998; Usually I have an issue with number 4 'cause it's a default pattern of mine to worry about the details and the "how"
 
 ## Energy
 
