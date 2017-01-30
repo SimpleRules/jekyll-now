@@ -11,9 +11,10 @@ I keep quotes on this page because
 1. Sometimes when I need them, I forget the *exact* words. So this acts as reminder.
 2. From time to time, I read them to derive new wisdom just like how some people like to read their favorite passages from their religious texts
 3. Putting these here gives you an impression of who I am as a person.
-4. Quotes, sometimes, act as surprisingly very good simple rules.
+4. Quotes sometimes make very good simple rules.
 
-Two rules to take note:
+Three rules to take note:
+
 1. Occassionally I will insert my own comments below the quote.
 2. My quotes have subheadings that are either by author (e.g. Bruce Lee) or by topic (Mastery)
 3. I do not make stringent checks on the true authorship of the quotes. The wisdom the quotes give me are more important than the authorship.
@@ -84,27 +85,4 @@ Two rules to take note:
 ### Funny
 
 > I’d drag my dick through broken glass for a mile just to hear that woman fart over a walkie-talkie. - Irish Saying
-
-I'm currently writing 100 posts on this blog to hit the "organic spurt" in competency. 
-
-Also learning how to snowboard in places like Furano.
-
-As a result, my capacity for extra projects is extremely limited. I am putting more wood behind fewer arrows so to speak. 
-
-This is hard as it is totally against my usual mode of being for the past 5 years.
-
-(Accordingly, I’m not currently offering any assistance in any pursuits, or participation in networking events). In fact, as silly as it sounds, I am actually **reducing** the number of people I am spending time with and business opportunities I am pursuing despite my self-professed obsession about building business products.
-
-In my free time, I currently pursue:
-
-- Skiing
-- Snow-boarding
-- Writing (via this blog)
-- Roller-blading
-
-## What the heck is a now page?
-
-Want to know what a now page is?
-
-Check out this [page](http://nownownow.com/about) by Derek Sivers.
 
