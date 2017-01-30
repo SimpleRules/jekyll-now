@@ -86,26 +86,3 @@ Three rules to take note:
 
 > I’d drag my dick through broken glass for a mile just to hear that woman fart over a walkie-talkie. - Irish Saying
 
-I'm currently writing 100 posts on this blog to hit the "organic spurt" in competency. 
-
-Also learning how to snowboard in places like Furano.
-
-As a result, my capacity for extra projects is extremely limited. I am putting more wood behind fewer arrows so to speak. 
-
-This is hard as it is totally against my usual mode of being for the past 5 years.
-
-(Accordingly, I’m not currently offering any assistance in any pursuits, or participation in networking events). In fact, as silly as it sounds, I am actually **reducing** the number of people I am spending time with and business opportunities I am pursuing despite my self-professed obsession about building business products.
-
-In my free time, I currently pursue:
-
-- Skiing
-- Snow-boarding
-- Writing (via this blog)
-- Roller-blading
-
-## What the heck is a now page?
-
-Want to know what a now page is?
-
-Check out this [page](http://nownownow.com/about) by Derek Sivers.
-

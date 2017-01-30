@@ -16,6 +16,12 @@ I will also venture into areas that may, on first glance have nothing to do with
 
 Let's get started.
 
+## Lists
+
+I have a few lists. Having lists help you better understand who I am and where I come from. The first list is my list of favorite quotes.
+
+- [/quotes](/quotes)
+
 ### Contact me
 
 kimcity [AT] gmail [DOT] com
