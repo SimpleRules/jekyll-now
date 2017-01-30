@@ -4,17 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I want this blog to be the "Apple of ideas". That means, ideas that are extremely well-designed.
+I want this blog to be the "Apple of ideas". That means, this blog will have ideas that are extremely well-designed, approachable, beautiful, insanely easy to understand, and insanely easy to use. Most importantly, they must be incredibly useful. **This is the quality I want to achieve with my writing here.**
 
-What does that mean? That means ideas that are approachable, beautiful,  insanely easy to understand, and insanely easy to use. Most importantly, they must be incredibly useful.
+**I am a businessman who can code.** The programmers I work with think I am good with business stuff. The sales people I collaborate with see me as a technical talent.
 
-Ideas in what field? I will start with just the one: Successfully selling successful software systems. Yes, you read that right. There are 2 successfuls in that line with of 5 words that start with s.
+So, the ideas in this blog will be on **Successful Software Selling**. I will write a longer piece to elaborate. In short, my idea of Successful Software Selling is:
 
-Successfully selling successful software systems (or 5S) is a field that immediately brings to mind many smaller and familiar areas: selling psychology, software development, project management, etc. 
+$$ Successful Software Selling = Successful Software + Successful Selling $$
 
-I will also venture into areas that may, on first glance have nothing to do with either selling or software, but they do.
-
-Let's get started.
+Technical people concentrate on the Software portion. Sales people concentrate on the Selling part. I intend to talk on the overlapping portion of the two from my perspective.
 
 ## Lists
 
