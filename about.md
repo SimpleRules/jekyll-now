@@ -4,18 +4,32 @@ title: About
 permalink: /about/
 ---
 
-I want this blog to be the "Apple of ideas". That means, ideas that are extremely well-designed.
+I want this blog to be the "Apple of ideas". 
 
-What does that mean? That means ideas that are approachable, beautiful,  insanely easy to understand, and insanely easy to use. Most importantly, they must be incredibly useful.
+That means, this blog will have ideas that are extremely well-designed, approachable, beautiful, insanely easy to understand, and insanely easy to use. Most importantly, they must be incredibly useful. **This is the quality I want to achieve with my writing here.**
 
-Ideas in what field? I will start with just the one: Successfully selling successful software systems. Yes, you read that right. There are 2 successfuls in that line with of 5 words that start with s.
+**I am a businessman who can code.** The programmers I work with think I am good with business stuff. The sales people I collaborate with see me as a technical talent.
 
-Successfully selling successful software systems (or 5S) is a field that immediately brings to mind many smaller and familiar areas: selling psychology, software development, project management, etc. 
+The ideas in this blog will be on what I am good at: **Successful Software Selling**. 
 
-I will also venture into areas that may, on first glance have nothing to do with either selling or software, but they do.
+I will write a longer piece to elaborate what that is. In short, my idea of Successful Software Selling is:
 
-Let's get started.
+> Successful Software Selling = Successful Software + Successful Selling
 
-### Contact me
+Technical people concentrate on the Software portion. Sales people concentrate on the Selling part. I want to do both in an **integrated and holistic** manner.
+
+When you build a successful piece of software, it is easier to sell.
+
+When you are good at selling, it is easier to feed your software development with revenue and valuable feedback.
+
+Both pieces work in an interdependent manner that the purists (those purely writing software or purely selling) cannot fully address from their perspectives.
+
+## Lists
+
+I have a few lists. Having lists help you better understand who I am and where I come from. 
+
+- [/quotes](/quotes)
+
+## Contact me
 
 kimcity [AT] gmail [DOT] com
