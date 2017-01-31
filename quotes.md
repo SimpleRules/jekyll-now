@@ -87,6 +87,11 @@ Three rules to take note:
 
 > An algorithm must be seen to be believed.
 
+
+### Universe
+
+> Interdependence is a higher value than Independence - Stephen R Covey
+
 ### Mastery 
 
 > What I cannot create, I do not understand. - Richard Feynman
@@ -104,6 +109,8 @@ Three rules to take note:
 > I devote energy to just 2 things: when I am with patients and when I am doing something new.
 
 > Humans like to **have** choices. They don't like to **make** choices.
+
+> All great endeavours begin with strong emotions - Dr S
 
 ### Steve Jobs
 
