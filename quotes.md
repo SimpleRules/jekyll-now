@@ -55,7 +55,7 @@ Three rules to take note:
 
 ### John Wooden
 
-> If you don’t have time to do it right, when will you have time to do it over
+> If you don’t have time to do it right, when will you have time to do it over?
 
 > Things turn out best for the people who make the best of the way things turn out.
 
