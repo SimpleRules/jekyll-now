@@ -10,8 +10,10 @@ no style because any framework ultimately will bind
 to fight with no styles restricting you
 to think with no beliefs restricing your thoughts
 
-Just like the art of war is seemingly teaching its students how to fight, actually Sun Tzu is really teaching them how to win. more accurately, how to arrive at winning.
+Just like the Sun Tzu's art of war is seemingly teaching its students how to fight, actually Sun Tzu is really teaching them how to win. more accurately, how to arrive at winning.
+
+idealized goal is to win without fighting
 
 not teaching students how to think. we teach them how to arrive at knowing.
 
-to know without thinking
+idealized goal is to know without thinking
