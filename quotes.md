@@ -87,6 +87,9 @@ Three rules to take note:
 
 > An algorithm must be seen to be believed.
 
+Romance
+
+> "If equal affection cannot be, let the more loving one be me." -- WH Auden 
 
 ### Universe
 
