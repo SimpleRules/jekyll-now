@@ -6,7 +6,7 @@ title: affirmations
 1. use scott adams' way to experiment with daily affirmations
 result = mixed
 
-some got stuck for very long tiem due to non-action
+some got stuck for very long time due to non-action
 
 some got abandoned due to bad selection of goals
 
