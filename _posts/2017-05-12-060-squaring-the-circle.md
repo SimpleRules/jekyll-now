@@ -1,4 +1,7 @@
 Write as 30 page book called squaring the circle
+End of every section slowly build out a NCN
+
+to show how the ideas connect
 
 ## Intro
 
