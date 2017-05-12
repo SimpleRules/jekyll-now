@@ -87,6 +87,9 @@ Three rules to take note:
 
 > An algorithm must be seen to be believed.
 
+Romance
+
+> "If equal affection cannot be, let the more loving one be me." -- WH Auden 
 
 ### Universe
 
@@ -115,6 +118,50 @@ Three rules to take note:
 ### Steve Jobs
 
 > Focusing is about saying no.
+
+### Tyler Cowen
+
+
+> you’ll understand yourself better if, in a given moment, you can pretend to distance yourself from some of your immediate impressions of your day, and treat yourself like a piece of your writing which you set aside for a week so you could look at it fresh. from http://marginalrevolution.com/marginalrevolution/2016/01/how-to-seem-telepathic.html
+
+> In today’s global economy here is what is scarce: 1. Quality land and natural resources 2. Intellectual property, or good ideas about what should be produced. 3. Quality labor with unique skills.
+
+> It doesn’t matter how flexible the wage is in the more complex, less brute force jobs. A manual worker who just shows up at your door is probably not someone you want to hire unless it is already part of a preexisting business plan with broad buy-in from your enterprise and your creditors. The worker might say, “I’ll lower my wage demands by thirty percent!” or, “I’ll work for nothing!” It usually won’t matter. The sad reality is that many of these workers you don’t want at all, even if the business plan involves additional labor. Some workers simply aren’t worth the trouble unless the demand for extra labor is truly pressing. -- The Average is Over
+
+> The quest for continual high-quality excitement is not conducive to casual down time together, which is the glue which binds relationships together in the longer run. -- http://marginalrevolution.com/marginalrevolution/2006/09/trudie_on_longd.html
+
+http://thoughtcatalog.com/ryan-holiday/2017/03/29-lessons-from-tyler-cowen/
+
+
+> 1. There is always time to do more, most people, even the productive, have a day that is at least forty percent slack.
+
+> 2. Do the most important things first in the day and don’t let anybody stop you.  Estimate “most important” using a zero discount rate.  Don’t make exceptions.  The hours from 7 to 12 are your time to build for the future before the world descends on you.
+
+> 3. Some tasks (drawing up outlines?) expand or contract to fill the time you give them.  Shove all these into times when you are pressed to do something else very soon.
+
+> 4. Each day stop writing just a bit before you have said everything you want to.  Better to approach your next writing day “hungry” than to feel “written out.”  Your biggest enemy is a day spent not writing, not a day spent writing too little.
+
+> 5. Blogging builds up good work habits; the deadline is always “now.”
+
+Rahul R. asks me if I would like to revise the list.  I’ll add these:
+
+6. Don’t drink alcohol.  Don’t take drugs.
+
+7. At any point in your life, do not be watching more than one television show on a regular basis.
+
+8. Don’t feel you have to finish a book or movie if you don’t want to.  I cover that point at length in my book Discover Your Inner Economist.
+
+http://marginalrevolution.com/marginalrevolution/2014/09/do-i-wish-to-revise-my-time-management-tips.html
+
+http://www.businessinsider.com/wearing-casual-clothes-at-work-to-show-wealth-2017-2?&platform=bi-androidapp
+
+The most likely explanation of the disparity between rhetoric and investing behavior is that many people, especially academics and commentators, simply are not used to making huge changes in their market position based on political events. Such adjustments would require a big shift in mental and emotional emphasis, which isn’t easy --- many people have a hard time switching careers or fields, even if it would improve their life prospects. In other words, often we live as bifurcated selves, with the beliefs side ruled by the normal level of intellectual honesty and the action side ruled by inertia. -- https://www.bloomberg.com/view/articles/2017-01-11/trump-doomsayers-miss-a-money-making-opportunity
+
+
+### Productivity
+
+“If you don’t have a good system for storing bad ideas, you probably don’t have one for filing good ones, either.”
+— David Allen
 
 ### Funny
 
