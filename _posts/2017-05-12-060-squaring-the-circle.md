@@ -72,6 +72,7 @@ I want to describe to you a method that prioritises the human inside of you by a
 
 Use quotes 
 Use who, where and when
+Use different levels (in terms of proficiency and abstractness) to solve
 
 ## Example of me writing this book 
 
