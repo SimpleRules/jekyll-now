@@ -1,3 +1,10 @@
+Kevin simler tweet abt organism created because of barely possible chemical reactions suggests to me that breakthroughs are a result of squaring the circle but sometimes also need the tension of the dilemma to perpetuate
+
+Look at my own retweet of Kevin simler tweet
+
+
+-------- last draft below -----
+
 Write as 30 page book called squaring the circle
 End of every section slowly build out a NCN
 
