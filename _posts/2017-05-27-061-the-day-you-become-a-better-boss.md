@@ -22,4 +22,6 @@ The skill of a boss lies in being able to answer this question at the Goldilocks
 
 Not too abstract and not too concrete. Not too broad. Not too narrow.
 
+(This is basically what I need to do for Zac, Jace, and AikChun)
 
+and ultimately for myself.
